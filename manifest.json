@@ -1,6 +1,6 @@
 {
   "slug": "ps-seo-console",
-  "version": "0.12.4",
-  "zip_url": "https://raw.githubusercontent.com/oridayan31/ps-seo-console/main/ps-seo-console.zip",
-  "sha256": "aaa946ac06fee96b43b684d7e8dd7f12487e3db54e3a7d192e0af1d7eba99e0c"
+  "version": "0.12.6",
+  "zip_url": "https://api.github.com/repos/oridayan31/ps-seo-console/contents/ps-seo-console.zip",
+  "sha256": "7eee921c9ddab3a70773699073cf99dda7bd600f9f1e3e2fca0e2ce465251e38"
 }
